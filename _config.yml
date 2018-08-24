@@ -1,23 +1,23 @@
 #Site configuration
-title: Read
-name:  Read Jekyll
-author: Anthony Stark
-work:  Developer
+title: Peilun Dai
+name:  Peilun Dai
+author: Peilun Dai
+work:  Computer Science PhD Student at Boston University
 year: 2018
 
 # Navigation
 nav1: "About"
-nav2: "Things I Can Do"
-nav3: "A Few Accomplishments"
+nav2: "Research"
+nav3: "Other Stuff"
 
 # Section1
-sec1: "Read Jekyll"
-sec2: "Just an incredibly simple responsive template for Jekyll."
+sec1: ""
+sec2: "About"
 sec3: "Faucibus sed lobortis aliquam lorem blandit. Lorem eu nunc metus col. Commodo id in arcu ante lorem ipsum sed accumsan erat praesent faucibus commodo ac mi lacus. Adipiscing mi ac commodo. Vis aliquet tortor ultricies non ante erat nunc integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum."
 
 # Section 2
-sec4: "Things I Can Do"
-sec5: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer lorem ipsum dolor sit amet."
+sec4: "Research"
+sec5: "//TODO"
 icon1: "fas fa-code"
 icont1: "Write all the code"
 icon2: "fa-cubes"
@@ -32,7 +32,7 @@ icon6: "fa-users"
 icont6: "Shadow clone technique"
 
 # Section 3
-sec6: "A Few Accomplishments"
+sec6: "Other Stuff"
 sec7: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer. Integer eu ante ornare amet commetus."
 sec8: "Possibly broke spacetime"
 sec9: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet."
@@ -42,21 +42,21 @@ sec12: "Snapped dark matter in the wild"
 sec13: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet."
 
 # Social Links
-facebook: username
-twitter:  username
+facebook: daipeilun
+twitter:  PeilunDai
 #google: username
 #instagram: username
 #pinterest: username
-#linkedin: username
+linkedin: peilundai
 #youtube: username
 #spotify: username
 #lastfm: username
-github: username
+github: peilundai
 #stackoverflow: username
 #quora: username
 #reddit: username
 #medium: username
 #vimeo: username
-keybase: username
-email: test@gmail.com
+# keybase: username
+email: peilun.dai@gmail.com
 
