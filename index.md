@@ -4,7 +4,7 @@ layout: default
 
 # About 
 
-I am a CS Ph.D. Candidate in the Learning, Intelligence and Signal Processing (LISP) group in the Department of Computer Science at Boston University. My advisor is Prof. Peter Chin. I obtained my bachelor’s degree in Electrical & Electronic Engineering from Nanyang Technological University in Singapore and a master’s degree in Neuroscience from MIT where I worked in the Synthetic Neurobiology Group directed by Prof. Ed Boyden. I have research experience in computer vision, bioinformatics and neurobiology. 
+I am a CS Ph.D. Candidate in the [Learning, Intelligence and Signal Processing (LISP)](http://cs-people.bu.edu/spchin/) group in the Department of Computer Science at Boston University. My advisor is [Prof. Peter Chin](https://www.cs.bu.edu/faculty/spchin/Welcome.html). I obtained my bachelor’s degree in Electrical & Electronic Engineering from Nanyang Technological University in Singapore and a master’s degree in Neuroscience from MIT where I worked in the [Synthetic Neurobiology Group](http://syntheticneurobiology.org/) directed by [Prof. Ed Boyden](http://syntheticneurobiology.org/people/display/71/11). I have research experience in computer vision, bioinformatics and neurobiology. 
 
 My current research interests include biologically-inspired learning algorithms for neural networks, deep learning and  affective computing. 
 
