@@ -8,7 +8,7 @@ I am a CS Ph.D. Candidate in the Learning, Intelligence and Signal Processing (L
 
 My current research interests include biologically-inspired learning algorithms for neural networks, deep learning and  affective computing. 
 
-I also enjoy teaching, reading, and making friends.
+I also enjoy teaching, reading, and making friends. You can reach me by email: peilun at bu.edu. 
 
 # Publications
 
