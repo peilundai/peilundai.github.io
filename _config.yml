@@ -1,0 +1,11 @@
+title: Peilun Dai
+logo: /assets/img/logo.png
+description: PhD Candidate in Computer Science at Boston University
+# show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
+plugins:
+    - jekyll-seo-tag
+
+
+
