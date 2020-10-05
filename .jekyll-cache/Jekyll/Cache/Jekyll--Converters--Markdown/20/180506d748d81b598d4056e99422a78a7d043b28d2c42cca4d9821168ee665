@@ -1,50 +1,4 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-<!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>Peilun Dai | PhD Candidate in Computer Science at Boston University</title>
-<meta name="generator" content="Jekyll v4.1.1" />
-<meta property="og:title" content="Peilun Dai" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="PhD Candidate in Computer Science at Boston University" />
-<meta property="og:description" content="PhD Candidate in Computer Science at Boston University" />
-<link rel="canonical" href="http://localhost:4000/" />
-<meta property="og:url" content="http://localhost:4000/" />
-<meta property="og:site_name" content="Peilun Dai" />
-<script type="application/ld+json">
-{"description":"PhD Candidate in Computer Science at Boston University","headline":"Peilun Dai","@type":"WebSite","url":"http://localhost:4000/","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/img/logo.png"}},"name":"Peilun Dai","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <link rel="stylesheet" href="/assets/css/style.css?v=">
-    <link rel="shortcut icon" type="image/x-icon" href="/assets/img/favicon.ico">
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <h1><a href="http://localhost:4000/">Peilun Dai</a></h1>
-        
-        
-          <img src="/assets/img/logo.png" alt="Logo" />
-        
-
-        <p>PhD Candidate in Computer Science at Boston University</p>
-
-        
-
-        
-
-        
-      </header>
-      <section>
-
-      <h1 id="about">About</h1>
+I"�<h1 id="about">About</h1>
 
 <p>I am a CS Ph.D. Candidate in the Learning, Intelligence and Signal Processing (LISP) group in the Department of Computer Science at Boston University. My advisor is Prof. Peter Chin. I obtained my bachelor’s degree in Electrical &amp; Electronic Engineering from Nanyang Technological University in Singapore and a master’s degree in Neuroscience from MIT where I worked in the Synthetic Neurobiology Group directed by Prof. Ed Boyden. I have research experience in computer vision, bioinformatics and neurobiology.</p>
 
@@ -84,15 +38,4 @@
 
 <p>9.40 Introduction to Neural Computation, Spring 2017, <em>Teaching Assistant</em></p>
 
-
-
-      </section>
-      <footer>
-        
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
-    </div>
-    <script src="/assets/js/scale.fix.js"></script>
-    
-  </body>
-</html>
+:ET
