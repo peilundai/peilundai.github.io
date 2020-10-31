@@ -6,11 +6,13 @@ layout: default
 
 I am a CS Ph.D. Candidate in the [Learning, Intelligence and Signal Processing (LISP)](http://cs-people.bu.edu/spchin/) group in the Department of Computer Science at Boston University. My advisor is [Prof. Peter Chin](https://www.cs.bu.edu/faculty/spchin/Welcome.html). I obtained my bachelor’s degree in Electrical & Electronic Engineering from Nanyang Technological University in Singapore and a master’s degree in Neuroscience from MIT where I worked in the [Synthetic Neurobiology Group](http://syntheticneurobiology.org/) directed by [Prof. Ed Boyden](http://syntheticneurobiology.org/people/display/71/11). I have research experience in computer vision, bioinformatics and neurobiology. [[CV]](assets/pdf/peilundai_CV.pdf)
 
-My current research interests include biologically-inspired learning algorithms for neural networks, deep learning and  affective computing. 
+My current research interests include biologically plausible deep learning and affective computing. 
 
 I also enjoy teaching, reading, and making friends. You can reach me by email: peilun at bu.edu. 
 
 # Publications
+
+Yoon, Y. G., Wang, Z., Pak, N., Park, D., **Dai, P.**, Kang, J. S., ... & Boyden, E. S. (2020). Sparse decomposition light-field microscopy for high speed imaging of neuronal activity. *Optica*, *7*(10), 1457-1468. [[publisher page]](https://www.osapublishing.org/optica/fulltext.cfm?uri=optica-7-10-1457&id=441774) [[PDF]](https://www.osapublishing.org/DirectPDFAccess/E899F619-BC51-60D9-E9867190B3E30813_441774/optica-7-10-1457.pdf?da=1&id=441774&seq=0&mobile=no)
 
 Yoon, Y. G., **Dai, P.**, Wohlwend, J., Chang, J. B., Marblestone, A. H., & Boyden, E. S. (2017). Feasibility of 3D reconstruction of neural morphology using expansion microscopy and barcode-guided agglomeration. *Frontiers in computational neuroscience*, *11*, 97. [[publisher page](https://www.frontiersin.org/articles/10.3389/fncom.2017.00097/full)] [[PDF](https://www.frontiersin.org/articles/10.3389/fncom.2017.00097/pdf)]
 
