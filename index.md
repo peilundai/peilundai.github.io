@@ -6,7 +6,7 @@ layout: default
 
 I am a CS Ph.D. Candidate in the [Learning, Intelligence and Signal Processing (LISP)](http://cs-people.bu.edu/spchin/) group in the Department of Computer Science at Boston University. My advisor is [Prof. Peter Chin](https://www.cs.bu.edu/faculty/spchin/Welcome.html). I obtained my bachelor’s degree in Electrical & Electronic Engineering from Nanyang Technological University in Singapore and a master’s degree in Neuroscience from MIT where I worked in the [Synthetic Neurobiology Group](http://syntheticneurobiology.org/) directed by [Prof. Ed Boyden](http://syntheticneurobiology.org/people/display/71/11). I have research experience in computer vision, bioinformatics and neurobiology. [[CV]](assets/pdf/peilundai_CV.pdf)
 
-My current research interests include biologically plausible deep learning and affective computing. 
+My current research interests include biologically plausible deep learning, topological graph neural networks and applications of deep learning.
 
 I also enjoy teaching, reading, and making friends. You can reach me by email: peilun at bu.edu. 
 
