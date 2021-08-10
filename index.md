@@ -6,7 +6,7 @@ layout: default
 
 I am a CS Ph.D. Candidate in the [Learning, Intelligence and Signal Processing (LISP)](http://cs-people.bu.edu/spchin/) group in the Department of Computer Science at Boston University. My advisor is [Prof. Peter Chin](https://www.cs.bu.edu/faculty/spchin/Welcome.html). I obtained my bachelor’s degree in Electrical & Electronic Engineering from Nanyang Technological University in Singapore and a master’s degree in Neuroscience from MIT where I worked in the [Synthetic Neurobiology Group](http://syntheticneurobiology.org/) directed by [Prof. Ed Boyden](http://syntheticneurobiology.org/people/display/71/11). I have research experience in computer vision, bioinformatics and neurobiology. [[CV]](peilundai_cv.pdf)
 
-My current research interests include biologically plausible deep learning, topological graph neural networks and applications of deep learning.
+My current research interests include biologically plausible models of learning, and sequential credit assignment and decision making.
 
 I also enjoy teaching, reading, and making friends. You can reach me by email: peilun at bu.edu. 
 
@@ -24,19 +24,15 @@ Mandal, B., Lim, R. Y., **Dai, P.**, Sayed, M. R., Li, L., & Lim, J. H. (2016). 
 
 ### <u>Boston University</u>
 
-CS 655 Graduate Introduction to Computer Networks, Fall 2020, *Grader*
-
-CS 542 Machine Learning, Summer 2020, *Teaching Fellow*
-
-CS 112 Introduction to Computer Science II, Spring 2020, *Teaching Fellow*
+CS 655 Computer Networks, Fall 2020, *Grader*
 
 CS 591 C1 Computational Game Theory, Spring 2020, *Grader*
 
-CS 112 Introduction to Computer Science II, Fall 2019 *Teaching Fellow*
-
 CS 591 C1 Compressive Sensing and Sparse Recovery, Fall 2019 *Grader*
 
-CS 542 Machine Learning, Spring 2019, *Teaching Fellow and Grader*
+CS 542 Machine Learning, Spring 2019, Summer 2020, Summer 2021, *Teaching Fellow*
+
+CS 112 Introduction to Computer Science II, Fall 2019, Spring 2020, *Teaching Fellow*
 
 ### <u>MIT</u>
 
