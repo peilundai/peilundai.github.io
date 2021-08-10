@@ -8,7 +8,7 @@ I am a CS Ph.D. Candidate in the [Learning, Intelligence and Signal Processing (
 
 My current research interests include biologically plausible models of learning, and sequential credit assignment and decision making.
 
-I also enjoy teaching, reading, and making friends. You can reach me by email: peilun at bu.edu. 
+I also enjoy teaching, reading, and making friends. You can reach me by email: my_first_name at bu.edu. 
 
 # Publications
 
@@ -28,7 +28,7 @@ CS 655 Computer Networks, Fall 2020, *Grader*
 
 CS 591 C1 Computational Game Theory, Spring 2020, *Grader*
 
-CS 591 C1 Compressive Sensing and Sparse Recovery, Fall 2019 *Grader*
+CS 591 C1 Compressive Sensing and Sparse Recovery, Fall 2019, *Grader*
 
 CS 542 Machine Learning, Spring 2019, Summer 2020, Summer 2021, *Teaching Fellow*
 
@@ -39,4 +39,3 @@ CS 112 Introduction to Computer Science II, Fall 2019, Spring 2020, *Teaching Fe
 9.012 Cognitive Science, Fall 2017, *Teaching Assistant*
 
 9.40 Introduction to Neural Computation, Spring 2017, *Teaching Assistant*
-
