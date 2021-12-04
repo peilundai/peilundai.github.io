@@ -22,7 +22,7 @@ Ma, K. T., Li, L., **Dai, P.**, Lim, J. H., Shen, C., & Zhao, Q. (2017, Septembe
 
 Mandal, B., Lim, R. Y., **Dai, P.**, Sayed, M. R., Li, L., & Lim, J. H. (2016). Trends in machine and human face recognition. In *Advances in Face Detection and Facial Image Analysis* (pp. 145-187). Springer, Cham. [[publisher page](https://link.springer.com/chapter/10.1007/978-3-319-25958-1_7)] [[PDF](./papers/Mandal2016_Chapter_TrendsInMachineAndHumanFaceRec.pdf)]
 
-Ma, K. T., Lim, R., Dai, P., Li, L., & Lim, J. H. (2015). Unconstrained egocentric videos with eye-tracking data. In IEEE Conf. on Computer Vision and Pattern Recognition Workshops (CVPRW). [[PDF](http://sunw.csail.mit.edu/2015/papers/18_Ma_SUNw.pdf)]
+Ma, K. T., Lim, R., **Dai, P.**, Li, L., & Lim, J. H. (2015). Unconstrained egocentric videos with eye-tracking data. In IEEE Conf. on Computer Vision and Pattern Recognition Workshops (CVPRW). [[PDF](http://sunw.csail.mit.edu/2015/papers/18_Ma_SUNw.pdf)]
 
 
 # Teaching
