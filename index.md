@@ -4,13 +4,14 @@ layout: default
 
 # About 
 
-I am a CS Ph.D. Candidate in the [Learning, Intelligence and Signal Processing (LISP)](http://cs-people.bu.edu/spchin/) group in the Department of Computer Science at Boston University. My advisor is [Prof. Peter Chin](https://www.cs.bu.edu/faculty/spchin/Welcome.html). I obtained my bachelor’s degree in Electrical & Electronic Engineering from Nanyang Technological University in Singapore and a master’s degree in Neuroscience from MIT where I worked in the [Synthetic Neurobiology Group](http://syntheticneurobiology.org/) directed by [Prof. Ed Boyden](http://syntheticneurobiology.org/people/display/71/11). I have research experience in computer vision, bioinformatics and neurobiology. [[CV]](peilundai_cv.pdf)
+I am a research engineer at the department of computing and intelligence at the Institute of High Performance Computing, A*STAR, Singapore. 
+I work on AI for healthcare and FinTech.
 
-My current research interests include biologically plausible models of learning, and sequential credit assignment and decision making.
-
-I also enjoy teaching, reading, and making friends. You can reach me by email: my_first_name at bu.edu. 
+Before that, I was a member in the [Learning, Intelligence and Signal Processing (LISP)](http://cs-people.bu.edu/spchin/) group in the Department of Computer Science at Boston University. My advisor was [Prof. Peter Chin](https://www.cs.bu.edu/faculty/spchin/Welcome.html). I obtained my bachelor’s degree in Electrical & Electronic Engineering from Nanyang Technological University in Singapore and a master’s degree in Neuroscience from MIT, where I worked in the [Synthetic Neurobiology Group](http://syntheticneurobiology.org/) directed by [Prof. Ed Boyden](http://syntheticneurobiology.org/people/display/71/11). I have research experience in computer vision, bioinformatics, and neurobiology. My latest CV is available upon request.
 
 # Publications
+
+Tan, T. F., **Dai, P.**, Zhang, X., Jin, L., Poh, S., Hong, D., Lim, J., Lim, G., Teo, Z. L., Liu, N., & Ting, D. S. W. (2023). Explainable artificial intelligence in ophthalmology. *Current opinion in ophthalmology*, *34*(5), 422-430. [[publisher page](https://journals.lww.com/co-ophthalmology/abstract/2023/09000/explainable_artificial_intelligence_in.13.aspx)]
 
 **Dai, P.**, & Chin, S. (2021). Training Many-to-Many Recurrent Neural Networks with Target Propagation. Artificial Neural Networks and Machine Learning – ICANN 2021, 433–443. [[publisher page]](https://link.springer.com/chapter/10.1007/978-3-030-86380-7_35) [[PDF](./papers/Dai-Chin2021_Chapter_TrainingMany-to-ManyRecurrentN.pdf)]
 
