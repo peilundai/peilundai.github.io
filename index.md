@@ -11,6 +11,8 @@ Before that, I was a member in the [Learning, Intelligence and Signal Processing
 
 # Publications
 
+Tan, T.-E., **Dai, P.**, Hensman, J., Kiraly, P., Fenner, B.J., Liu, Y. et al.  (2025) Artificial intelligence- quantified schisis volume as a structural endpoint for gene therapy clinical trials in X- linked retinoschisis. *Acta Ophthalmologica*, 00, 1–10. [[publisher page](http://doi.org/10.1111/aos.17485)] [[PDF](./papers/100193033.pdf)]
+
 Tan, T. F., **Dai, P.**, Zhang, X., Jin, L., Poh, S., Hong, D., Lim, J., Lim, G., Teo, Z. L., Liu, N., & Ting, D. S. W. (2023). Explainable artificial intelligence in ophthalmology. *Current opinion in ophthalmology*, *34*(5), 422-430. [[publisher page](https://journals.lww.com/co-ophthalmology/abstract/2023/09000/explainable_artificial_intelligence_in.13.aspx)]
 
 **Dai, P.**, & Chin, S. (2021). Training Many-to-Many Recurrent Neural Networks with Target Propagation. Artificial Neural Networks and Machine Learning – ICANN 2021, 433–443. [[publisher page]](https://link.springer.com/chapter/10.1007/978-3-030-86380-7_35) [[PDF](./papers/Dai-Chin2021_Chapter_TrainingMany-to-ManyRecurrentN.pdf)]
