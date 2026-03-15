@@ -12,9 +12,15 @@ Personal website and blog for Peilun Dai, built with Jekyll and hosted on GitHub
 - GitHub-style syntax highlighting for both themes
 - RSS feed via jekyll-feed
 
+## Deployment
+
+The site deploys automatically to GitHub Pages via GitHub Actions on push to `master`. The workflow is in `.github/workflows/jekyll.yml`.
+
+**Important:** In your GitHub repo settings, set Pages source to **GitHub Actions** (not "Deploy from a branch").
+
 ## Local Development
 
-Requires Ruby (tested with 4.0+):
+Requires Ruby 3.3+:
 
 ```bash
 bundle install

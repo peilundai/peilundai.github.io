@@ -2,4 +2,9 @@
 
 source 'https://rubygems.org'
 
-gem 'github-pages', '~> 232', group: :jekyll_plugins
+gem 'jekyll', '~> 4.1'
+gem 'jekyll-seo-tag', '~> 2.0'
+gem 'jekyll-paginate', '~> 1.1'
+gem 'jekyll-feed', '~> 0.15'
+gem 'kramdown-parser-gfm', '~> 1.1'
+gem 'webrick'
