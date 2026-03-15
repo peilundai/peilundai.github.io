@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<div class="home-layout">
+  <div class="profile-header">
+    {% if site.logo %}
+      <img src="{{ site.logo | relative_url }}" alt="{{ site.title }}" class="profile-photo" />
+    {% endif %}
+    <div class="profile-info">
+      <h1>{{ site.title }}</h1>
+      <p class="profile-tagline">Research Engineer<br>A*STAR Institute of High Performance Computing (A*STAR IHPC)</p>
+      {% include social-icons.html %}
+    </div>
+  </div>
+
+  <div class="home-content">
+    {{ content }}
+  </div>
+</div>
