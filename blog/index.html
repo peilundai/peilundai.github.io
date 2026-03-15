@@ -1,0 +1,40 @@
+---
+layout: default
+title: Blog
+---
+
+<div class="blog-index">
+  <h1>Blog</h1>
+
+  {% for post in paginator.posts %}
+    <article class="post-preview">
+      <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+      <div class="post-meta">
+        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
+        {% assign words = post.content | number_of_words %}
+        {% assign mins = words | divided_by: 200 %}
+        {% if mins < 1 %}{% assign mins = 1 %}{% endif %}
+        <span class="reading-time">{{ mins }} min read</span>
+      </div>
+      <p class="post-excerpt">{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
+    </article>
+  {% endfor %}
+
+  {% if paginator.total_pages > 1 %}
+  <nav class="pagination">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path | relative_url }}" class="pagination-prev">&larr; Newer</a>
+    {% else %}
+      <span class="pagination-prev disabled">&larr; Newer</span>
+    {% endif %}
+
+    <span class="pagination-info">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path | relative_url }}" class="pagination-next">Older &rarr;</a>
+    {% else %}
+      <span class="pagination-next disabled">Older &rarr;</span>
+    {% endif %}
+  </nav>
+  {% endif %}
+</div>
