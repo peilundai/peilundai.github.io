@@ -6,11 +6,13 @@
     </button>
     <ul class="nav-links">
       {% for item in site.navigation %}
-        <li>
-          <a href="{{ item.url | relative_url }}" {% if page.url == item.url %}class="active"{% endif %}>
-            {{ item.title }}
-          </a>
-        </li>
+        {% unless page.url == '/' and item.url == '/blog/' %}
+          <li>
+            <a href="{{ item.url | relative_url }}" {% if page.url == item.url %}class="active"{% endif %}>
+              {{ item.title }}
+            </a>
+          </li>
+        {% endunless %}
       {% endfor %}
       <li>
         <button class="theme-toggle" aria-label="Toggle dark mode" title="Toggle dark mode">
