@@ -20,7 +20,7 @@ The site deploys automatically to GitHub Pages via GitHub Actions on push to `ma
 
 ## Local Development
 
-Requires Ruby 3.3+:
+Requires Ruby 3.3+ to match the GitHub Actions environment used for GitHub Pages deployment:
 
 ```bash
 bundle install
@@ -28,6 +28,8 @@ bundle exec jekyll serve
 ```
 
 Visit `http://localhost:4000` to preview.
+
+This site is deployed to GitHub Pages through the workflow in `.github/workflows/jekyll.yml`, which currently uses `ruby/setup-ruby` with Ruby 3.3 and `bundle exec jekyll build`. If your system Ruby is older, use a Ruby version manager or Homebrew Ruby rather than changing the site to depend on macOS system Ruby.
 
 ## Writing Blog Posts
 

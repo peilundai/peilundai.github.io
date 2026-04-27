@@ -1,11 +1,10 @@
 ---
 ---
 
-@import "variables";
-@import "base";
-@import "nav";
-@import "home";
-@import "blog";
-@import "post";
-@import "rouge-github";
-@import "utilities";
+@use "base";
+@use "nav";
+@use "home";
+@use "blog";
+@use "post";
+@use "rouge-github";
+@use "utilities";
