@@ -4,14 +4,9 @@ layout: default
 
 <div class="home-layout">
   <div class="profile-header">
-    {% if site.logo %}
-      <img src="{{ site.logo | relative_url }}" alt="{{ site.title }}" class="profile-photo" />
-    {% endif %}
     <div class="profile-info">
       <h1>{{ site.title }}</h1>
       <p class="profile-name-zh">代佩伦</p>
-      <p class="profile-tagline">Senior Machine Learning Engineer<br>Grab</p>
-      {% include social-icons.html %}
     </div>
   </div>
 

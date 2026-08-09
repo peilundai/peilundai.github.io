@@ -24,8 +24,6 @@ paginate_path: "/blog/page:num/"
 
 # Navigation
 navigation:
-  - title: Home
-    url: /
   - title: Blog
     url: /blog/
 
