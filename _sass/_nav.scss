@@ -3,14 +3,15 @@
   top: 0;
   z-index: 100;
   background: var(--color-nav-bg);
+  -webkit-backdrop-filter: blur(8px);
+  backdrop-filter: blur(8px);
   border-bottom: 1px solid var(--color-border);
-  box-shadow: var(--shadow-sm);
   height: $nav-height;
   transition: background-color 0.3s ease;
 }
 
 .nav-container {
-  max-width: $wide-width;
+  max-width: $content-width;
   margin: 0 auto;
   padding: 0 1.5rem;
   display: flex;
@@ -20,8 +21,9 @@
 }
 
 .site-title {
-  font-size: 1.2rem;
+  font-size: 1.05rem;
   font-weight: 600;
+  letter-spacing: -0.01em;
   color: var(--color-heading);
   &:hover { color: var(--color-accent); }
 }
@@ -32,20 +34,17 @@
   padding: 0;
   display: flex;
   align-items: center;
-  gap: 2rem;
+  gap: 1.75rem;
 
   a {
     color: var(--color-text-secondary);
     font-weight: 500;
-    font-size: 0.95rem;
+    font-size: 0.9rem;
     padding: 0.5rem 0;
-    border-bottom: 2px solid transparent;
-    transition: color 0.2s, border-color 0.2s;
+    transition: color 0.2s;
 
-    &:hover, &.active {
-      color: var(--color-accent);
-      border-bottom-color: var(--color-accent);
-    }
+    &:hover { color: var(--color-heading); }
+    &.active { color: var(--color-heading); }
   }
 }
 
