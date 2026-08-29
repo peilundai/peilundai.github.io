@@ -1,0 +1,18 @@
+{
+  "name": "peilundai.com (Jekyll)",
+  "snapshot": "snapshot-20260829-90d765d5-3841-49f8-b006-f0753bd5b67f",
+  "install": "bundle install",
+  "terminals": [
+    {
+      "name": "jekyll",
+      "command": "bundle exec jekyll serve --host 0.0.0.0 --port 4000",
+      "description": "Jekyll development server, serving the site at http://localhost:4000/"
+    }
+  ],
+  "ports": [
+    {
+      "name": "jekyll",
+      "port": 4000
+    }
+  ]
+}
